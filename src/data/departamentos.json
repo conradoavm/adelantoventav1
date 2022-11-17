@@ -1,0 +1,134 @@
+[
+    {
+        "codigo": 5,
+        "nombre": "Antioquia"
+    },
+    {
+        "codigo": 15,
+        "nombre": "Boyac\u00e1"
+    },
+    {
+        "codigo": 23,
+        "nombre": "C\u00f3rdoba"
+    },
+    {
+        "codigo": 27,
+        "nombre": "Choc\u00f3"
+    },
+    {
+        "codigo": 52,
+        "nombre": "Nari\u00f1o"
+    },
+    {
+        "codigo": 68,
+        "nombre": "Santander"
+    },
+    {
+        "codigo": 50,
+        "nombre": "Meta"
+    },
+    {
+        "codigo": 8,
+        "nombre": "Atl\u00e1ntico"
+    },
+    {
+        "codigo": 13,
+        "nombre": "Bol\u00edvar"
+    },
+    {
+        "codigo": 17,
+        "nombre": "Caldas"
+    },
+    {
+        "codigo": 18,
+        "nombre": "Caquet\u00e1"
+    },
+    {
+        "codigo": 19,
+        "nombre": "Cauca"
+    },
+    {
+        "codigo": 20,
+        "nombre": "Cesar"
+    },
+    {
+        "codigo": 25,
+        "nombre": "Cundinamarca"
+    },
+    {
+        "codigo": 41,
+        "nombre": "Huila"
+    },
+    {
+        "codigo": 44,
+        "nombre": "La Guajira"
+    },
+    {
+        "codigo": 47,
+        "nombre": "Magdalena"
+    },
+    {
+        "codigo": 63,
+        "nombre": "Quind\u00edo"
+    },
+    {
+        "codigo": 66,
+        "nombre": "Risaralda"
+    },
+    {
+        "codigo": 70,
+        "nombre": "Sucre"
+    },
+    {
+        "codigo": 73,
+        "nombre": "Tolima"
+    },
+    {
+        "codigo": 81,
+        "nombre": "Arauca"
+    },
+    {
+        "codigo": 85,
+        "nombre": "Casanare"
+    },
+    {
+        "codigo": 86,
+        "nombre": "Putumayo"
+    },
+    {
+        "codigo": 91,
+        "nombre": "Amazonas"
+    },
+    {
+        "codigo": 94,
+        "nombre": "Guain\u00eda"
+    },
+    {
+        "codigo": 97,
+        "nombre": "Vaup\u00e9s"
+    },
+    {
+        "codigo": 99,
+        "nombre": "Vichada"
+    },
+    {
+        "codigo": 95,
+        "nombre": "Guaviare"
+    },
+    {
+        "codigo": 88,
+        "nombre": "Archipi\u00e9lago de San Andr\u00e9s, Providencia y Santa Catalina"
+    },
+    {
+        "codigo": 11,
+        "nombre": "Bogot\u00e1 D.C."
+    },
+    {
+        "codigo": 54,
+        "nombre": "Norte de Santander"
+    },
+    {
+        "codigo": 76,
+        "nombre": "Valle del Cauca"
+    }
+]
